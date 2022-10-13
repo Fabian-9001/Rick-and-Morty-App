@@ -54,7 +54,7 @@ body::-webkit-scrollbar-track {
     font-family: 'Nunito', sans-serif;
     background-position: center;
     background-size: 400px;
-    background-image: url(https://revistadiscomania.files.wordpress.com/2013/01/polvo-de-estrellas.gif?w=396);
+    background-image: url(/public/img/polvo-de-estrellas.gif);
 }
 
 /*--BANNER--*/
